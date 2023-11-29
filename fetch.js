@@ -530,7 +530,7 @@ export function fetch(input, init) {
       return reject(new DOMException('Aborted', 'AbortError'))
     }
 
-    var xhr = new XMLHttpRequest()
+    var xhr = new g.XMLHttpRequest()
 
     function abortXhr() {
       xhr.abort()

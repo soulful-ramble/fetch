@@ -1,5 +1,5 @@
 {
-  "name": "whatwg-fetch",
+  "name": "whatwg-fetch-mp",
   "description": "A window.fetch polyfill.",
   "version": "3.6.19",
   "main": "./dist/fetch.umd.js",
